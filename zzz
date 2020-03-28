@@ -1,6 +1,17 @@
 [{
 	"HvH": [{
-		"Script_name": "test_script1",
-		"Script_description": "test_description1"
-	}]
+			"Script_name": "test_script1",
+			"Script_description": "test_description1"
+		},
+
+		{
+			"Script_name": "test_script2",
+			"Script_description": "test_description2"
+		},
+
+		{
+			"Script_name": "test_script1",
+			"Script_description": "test_description2"
+		}
+	]
 }]
